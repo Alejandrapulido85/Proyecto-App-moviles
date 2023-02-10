@@ -8,7 +8,7 @@ ArqApp es una aplicación la cual va a permitir consultar y visualizar informaci
 ## Aplicaciones similares 
 - [Archdaily] (https://www.archdaily.com/page/2) *crear una adaptación de esta pagina para aplicación movil*
 - [Autocad editor DWG] (https://play.google.com/store/apps/details?id=com.autodesk.autocadws&hl=es_CO&gl=US)
-- [Domestika] (https://play.google.com/store/apps/details?id=org.domestika&hl=es&shortlink=e083dec3es&pid=website&source_caller=ui) *Adaptado más hacia el area de arquitectura y construcción* 
+- [Domestika] (https://play.google.com/store/apps/details?id=org.domestika&hl=es&shortlink=e083dec3es&pid=website&source_caller=ui) *La idea es adaptarlo más hacia el area de arquitectura y construcción* 
 - [Coursera] (https://play.google.com/store/apps/details?id=org.coursera.android&hl=es_CO&gl=US)
 
 
