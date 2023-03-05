@@ -7,4 +7,13 @@ Los colores a usar son basados en una combinación entre escala de grises y comp
 
 1.Inicio 
 Cuando el usuario ingrese vera una lista de temas recomendados segun la información de busqueda anterior o relacionada.
-![Lista de recomendados] (i
+
+![Lista de recomendados] (images/Lista de recomendados.JPG)
+
+2.Cursos
+Al seleccionar la listas desplegable de la vista recomendados se podra ver algunas de las actividades con las que el usuario podra interactuar, entre ellos los mas relevantes son los cursos, tutoriales y proyectos
+
+![Lista desplegable] (images/lista Desplegable.JPG)
+![Cursos] (images/Cursos.PNG)
+
+![Lista tutoriales] (images/lista de videos.JPG)
