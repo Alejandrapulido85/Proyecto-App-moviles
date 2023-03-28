@@ -25,9 +25,6 @@ Al seleccionar cursos, el usuario verá una lista de los diferentes cursos que s
 ![Lista desplegable](images/Listadesplegable.png)
 ![Cursos](images/Cursos.PNG)
 
-## 3. Tutoriales
-En la vista tutoriales el usuario podra ver una lista de videos de interes y de busqueda para obtener información del tema a requerir.
-
-![Lista tutoriales](images/Listavideos.png)
+## 3. Proyectos
 
 
