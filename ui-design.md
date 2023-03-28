@@ -1,9 +1,11 @@
 ## Diseño de interfaz de usuario
-
-La interfaz de usuario de la aplicación ArqApp en algunas interfaces de usuarios de aplicacionesMensionadas en las ideas de proyecto además haciendo uso de algunos conocimientos en diseño y herramientas de visualización.
+<p align="center">
+    <img src="https://i.postimg.cc/5N9bsGkt/ArqApp.png">
+</p>
+La interfaz de usuario de la aplicación ArqApp en algunos elementos y la estructura de interfaces de usuarios de aplicaciones mencionadas en las ideas de proyecto además haciendo uso de algunos conocimientos en diseño y herramientas de visualización.
 
 El diseño completo se encuentra disponible en [Marvelapp](https://marvelapp.com/prototype/69gifd4).
-Los colores a usar son basados en una combinación entre escala de grises y complementarios, tratando de resaltar de manera sutil el color azul. A continuación se presentan las principales pantallas: 
+Los colores a usar son basados en una combinación entre escala de grises y complementarios, inspirados en el tema principal de la aplicación, la enseñanza de temas de arquitectura en general, tratando de resaltar de manera sutil el color azul. A continuación se presentan las principales pantallas: 
 
 ![App](images/App.PNG)
 

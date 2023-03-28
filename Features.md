@@ -4,20 +4,21 @@
 
 1. Esta aplicación funcionará en dispositivos Android con sistema operativo versión 9 o superior. 
 
-2. Cualquier información enviada por el usuario o subida será almacenada de forma local en el dispositivo y en la nube a utilizar por la aplicación.
+2. Cualquier información enviada o subida por el usuario será almacenada de forma local en el dispositivo y en la nube por la aplicación de acuerdo a los accesos y restricciones configuradas inicialmente por el usuario mientras use la aplicación.
 
 ## Funcionalidades de usuario 
 
-ArqApp le permitirá al usuario consultar e interactuar con información, videos, cursos relacionados con construcción, arquitectura, instalaciones y diseño que por medio de una interfaz amigable y de fácil acceso. Algunas de las funcionalidades que el usuario podrá encontrar son las siguientes:
+ArqApp le permitirá al usuario consultar e interactuar con recursos audiovisuales por medio de cursos relacionados con construcción, arquitectura, instalaciones y diseño mediante de una interfaz amigable y de fácil acceso.
+Algunas de las funcionalidades que el usuario podrá encontrar en ArqApp son las siguientes:
 
-1. Crear una cuenta para acceder a toda la información.
+1. **Perfil:** Creación de una cuenta para acceder a toda la información de ArqApp.
 
-2. Al inicio se encontrará con una lista de temas recomendados de acuerdo a las búsquedas hechas por el usuario o temas relacionados a ellas.
+2. **Home:** En esta vista se podrá encontrar con secciones de temas recomendados de acuerdo a las búsquedas hechas por el usuario que se encuentran en el contenido de ArqApp, como los cursos y proyectos.
 
-3. Tendrá una pestaña de cursos en donde encontrara la disponibilidad de algunos de ellos por duración, tema e información. El usuario podrá seleccionar el curso y seguirlo paso a paso de acuerdo a la temática.
+3. **Cursos:** En esta sección se encontrarán los cursos y toda la información referente a ellos, su disponibilidad, duración, descripción, temas a tratar y progreso del curso. El usuario podrá seleccionar el curso y seguirlo paso a paso de acuerdo a la temática y a su propio ritmo.
 
-4. Tendrá una pestaña de tutoriales en donde el usuario podrá encontrar videos de temas específicos y que podrá consultar y seguir paso a paso.
+4. **Proyectos:** El usuario podrá alojar y crear archivos para sus proyectos de manera segura con el fin de que tenga la información del proyecto al instante en esta sección, podrán ser almacenados los archivos de manera local o en la nube.
 
-5. Tendrá una pestaña de proyectos donde el usuario podrá alojar y crear archivos para sus proyectos de manera segura con el fin de que el usuario tenga la información del proyecto al instante.
+La aplicación permite que el usuario guarde el contenido de los cursos y los proyectos de acuerdo a su prioridad y preferencia en el caso de que se requiera acceso rápido a alguno de ellos.
 
-Además dentro de la aplicación el usuario podrá guardad temas de su interés y preferencia en favoritos donde quedaran alojados ya sea cursos, tutoriales, proyectos o incluso noticias en caso de que el usuario requiera de un acceso rápido a alguno de ellos. El usuario también podrá interactuar con otros usuarios registrados en la aplicación por medio un blog donde podrán compartir ideas u opiniones o incluso si el usuario requiere de un acercamiento más privado podrá por medio de un chat crear una conversación con otro usuario.   
+Para información más detallada sobre ArqApp, visitar el ["Mockup"](https://marvelapp.com/prototype/69gifd4/screen/90844918) donde se ve de manera visual e interactiva las funcionalidades de la aplicación a través de una vista previa de la interfaz de usuario de la aplicación.
