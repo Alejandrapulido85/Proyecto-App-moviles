@@ -33,10 +33,16 @@ Con proyectos de ArqApp es posible dar seguimiento a los proyectos, gestionar un
 Características:
 
 •	Cargue de recursos del proyecto: Imágenes, docs, enlaces entre otros.
+
 •	Creación y alimentación de proyectos con diferentes recursos.
+
 •	Generación de vista previas y presentaciones de proyectos.
+
 •	Compartir informes o proyectos con usuarios internos del ecosistema ArqApp o externos.
+
 •	Descargue de proyectos.
+
+![Proyectos](/images/Proyectos.png
 
 ¿Como crear tu primer proyecto?
 
