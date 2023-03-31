@@ -10,7 +10,11 @@ El diseño completo se encuentra disponible en [Marvelapp](https://marvelapp.com
 
 Los colores a usar son basados en una combinación entre escala de grises y complementarios, inspirados en el tema principal de la aplicación, la enseñanza de temas de arquitectura en general, tratando de resaltar de manera sutil el color azul. A continuación se presentan las principales pantallas: 
 
-![App](/images/App.PNG)
+<p align="center">
+<img src="/images/A1_Logo.png" width="282" height="496">
+</p>
+
+
 
 ## 1. Inicio 
 Cuando el usuario ingrese vera una lista de temas recomendados segun la información de busqueda anterior o relacionada.
