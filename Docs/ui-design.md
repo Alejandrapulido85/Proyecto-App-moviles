@@ -8,14 +8,14 @@ La interfaz de usuario de la aplicación ArqApp en algunos elementos y la estruc
 El diseño completo se encuentra disponible en [Marvelapp](https://marvelapp.com/prototype/69gifd4).
 
 
-Los colores a usar son basados en una combinación entre escala de grises y complementarios, inspirados en el tema principal de la aplicación, la enseñanza de temas de arquitectura en general, tratando de resaltar de manera sutil el color azul. A continuación se presentan las principales pantallas: 
+Los colores a usar son basados en una combinación entre escala de grises y complementarios, inspirados en el tema principal de la aplicación, la enseñanza de temas de arquitectura en general, tratando de resaltar de manera sutil el color azul. A continuación se presentan las principales vistas: 
 
 <p align="center">
 <img src="https://github.com/Alejandrapulido85/Proyecto-App-moviles/blob/main/images/A1_Logo.png" width="311" height="627">
 </p>
 
 ## 1. Registro - Inicio Sesión
-Si sé ingresar por primera vez se deberá realizar un registro, y posteriormente el acceso será automático.
+Si sé va a ingresar por primera vez se deberá realizar un registro, y posteriormente el acceso será automático.
 
 
 <p align="center">
@@ -24,7 +24,7 @@ Si sé ingresar por primera vez se deberá realizar un registro, y posteriorment
 
 
 ## 2. Inicio - Home
-Cuando el usuario ingrese vera una lista de temas recomendados segun la información de busqueda anterior o relacionada.
+Cuando el usuario ingrese, verá una lista de temas recomendados según la información de búsqueda anterior o relacionada.
 
 
 <p align="center">
@@ -32,7 +32,7 @@ Cuando el usuario ingrese vera una lista de temas recomendados segun la informac
 </p>
 
 
-Al seleccionar la listas desplegable de la vista recomendados se podra ver algunas de las actividades con las que el usuario podra interactuar, entre ellos los mas relevantes son los cursos, tutoriales y proyectos
+Al seleccionar la listas desplegable de la vista "recomendados" se podrá ver algunas de las actividades con las que el usuario podrá interactuar, entre ellos los más relevantes son los cursos y los proyectos.
 
 <p align="center">
 <img src="https://github.com/Alejandrapulido85/Proyecto-App-moviles/blob/main/images/A4_Lista%20Desplegable.png" width="311" height="627">
@@ -40,7 +40,7 @@ Al seleccionar la listas desplegable de la vista recomendados se podra ver algun
 
 
 ## 3. Cursos
-Al seleccionar cursos, el usuario verá una lista de los diferentes cursos que se encuentran disponibles además podra por medio de busqueda pordra investigas si se encuentra algun curso de su interes.
+Al seleccionar "cursos", el usuario verá una lista de los diferentes cursos que se encuentran disponibles, además podrá por medio de la búsqueda investigar si se encuentra algún curso de su interés.
 
 
 
@@ -52,7 +52,7 @@ Al seleccionar cursos, el usuario verá una lista de los diferentes cursos que s
 
 
 ## 4. Proyectos
-En la sección proyectos se podrá gestionar un flujo de trabajo ajustado a las necesidades del proyecto a desarrollar, esta sección cuenta con funcionalidades como la creación desde cero de un proyecto o cargar un proyecto previo.
+En la sección "proyectos" se podrá gestionar un flujo de trabajo ajustado a las necesidades del proyecto a desarrollar, esta sección cuenta con funcionalidades como: la creación desde cero de un proyecto o cargar un proyecto previo.
 
 Con proyectos de ArqApp es posible dar seguimiento a los proyectos, gestionar un versionamiento de cambios, lo que asegura siempre el control e integridad de la información.
 
