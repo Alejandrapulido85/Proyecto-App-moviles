@@ -42,9 +42,9 @@ Características:
 
 •	Descargue de proyectos.
 
-<img src="/images/Proyectos.png" width="500" height="300">
-
-![Proyectos](/images/Proyectos.png)
+<p align="center">
+<img src="/images/Proyectos.png" width="282" height="496">
+</p>
 
 ¿Como crear tu primer proyecto?
 
