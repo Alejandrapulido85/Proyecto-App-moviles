@@ -8,14 +8,16 @@ La interfaz de usuario de la aplicación ArqApp en algunos elementos y la estruc
 El diseño completo se encuentra disponible en [Marvelapp](https://marvelapp.com/prototype/69gifd4).
 
 
-Los colores a usar son basados en una combinación entre escala de grises y complementarios, inspirados en el tema principal de la aplicación, la enseñanza de temas de arquitectura en general, tratando de resaltar de manera sutil el color azul. A continuación se presentan las principales vistas: 
+Los colores a usar son basados en una combinación entre escala de grises y complementarios, inspirados en el tema principal de la aplicación, la enseñanza de temas de arquitectura en general, tratando de resaltar de manera sutil el color azul.
+
+A continuación se presentan las principales vistas: 
 
 <p align="center">
 <img src="https://github.com/Alejandrapulido85/Proyecto-App-moviles/blob/main/images/A1_Logo.png" width="311" height="627">
 </p>
 
 ## 1. Registro - Inicio Sesión
-Si sé va a ingresar por primera vez se deberá realizar un registro, y posteriormente el acceso será automático.
+Si se va a ingresar por primera vez se deberá realizar un registro, y posteriormente el acceso será automático.
 
 
 <p align="center">
