@@ -26,5 +26,23 @@ Al seleccionar cursos, el usuario verá una lista de los diferentes cursos que s
 ![Cursos](/images/Cursos.PNG)
 
 ## 3. Proyectos
+En la sección proyectos se podrá gestionar un flujo de trabajo ajustado a las necesidades del proyecto a desarrollar, esta sección cuenta con funcionalidades como la creación desde cero de un proyecto o cargar un proyecto previo.
 
+Con proyectos de ArqApp es posible dar seguimiento a los proyectos, gestionar un versionamiento de cambios, lo que asegura siempre el control e integridad de la información.
+
+Características:
+
+•	Cargue de recursos del proyecto: Imágenes, docs, enlaces entre otros.
+•	Creación y alimentación de proyectos con diferentes recursos.
+•	Generación de vista previas y presentaciones de proyectos.
+•	Compartir informes o proyectos con usuarios internos del ecosistema ArqApp o externos.
+•	Descargue de proyectos.
+
+¿Como crear tu primer proyecto?
+
+1.	En la sección Proyectos de ArqApp, seleccionar “Crear nuevo proyecto”.
+2.	Selecciona la tipología del proyecto.
+3.	Asignar un nombre al proyecto y completar los datos necesarios para la creación.
+4.	Selecciona los perfiles de acceso y permisos de colaboración.
+5.	Una vez completado el registro ya puedes iniciar con redacciones, cargue de recursos y gestionar el relacionamiento con otros documentos.
 
