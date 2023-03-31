@@ -42,7 +42,7 @@ Características:
 
 •	Descargue de proyectos.
 
-![Proyectos](/images/Proyectos.png
+![Proyectos](/images/Proyectos.png)
 
 ¿Como crear tu primer proyecto?
 
